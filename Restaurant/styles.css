@@ -1,0 +1,37 @@
+nav {
+        border-top: thin #ad0a0a solid;
+        border-bottom: thin #ad0a0a solid;
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }    
+    
+    nav .btn {
+        background-color: #ad0a0a;
+        color: #fef9ff; 
+    }
+    
+    nav .btn:hover {
+        font-weight: bold;
+    }
+    nav .btn:visited {
+		background-color: black;
+	}
+	
+    .card-header, .card-header .btn {
+        background-color: #ad0a0a;
+        color: #fef9ff; 
+    }
+	
+	.jumbotron {
+		background-color:#ad0a0a !important;
+		color:#ffffff !important;
+		font-family: Cursive, arial;
+	}
+	footer {
+		background-color:#ad0a0a !important;
+		color:#ffffff !important;
+	}
+	
+	.form-group{
+			text-align: center;
+		
